@@ -1,0 +1,2 @@
+# data_ProbabilityDensitEstimation
+Given a set of numerical data stored in a file (one numerical value per line), this program creates the PDF (Probability Density Function) of the Probability of finding a value between X and X+dx. In other words, it calculates the probability of finding a value at a certain bin of a histogram constructed from the given data set. It plots the results in a small panel to give the user a graphical representation of the distribution of values in the given set of data.
